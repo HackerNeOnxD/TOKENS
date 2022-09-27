@@ -1,4 +1,12 @@
 import discord
+import os
+os.system("pip install asyncio")
+os.system("pip install requests")
+os.system("pip install threading")
+os.system("pip install sys")
+os.system("pip install typing")
+os.system("pip install colorama")
+os.system("pip install time")
 import asyncio
 import requests
 import threading
