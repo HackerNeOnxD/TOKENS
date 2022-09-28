@@ -72,7 +72,7 @@ elif stl == "idle":
   status = discord.Status.idle
 elif stl == "online":
   status = discord.Status.online
-ty = "streaming"
+ty = "listening"
 tyy = ty.lower()
 if tyy == "streaming":
   name = "~ Hacker_xD#0001"
